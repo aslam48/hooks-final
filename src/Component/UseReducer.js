@@ -25,7 +25,7 @@ const UseReducer = () => {
             dispatch({type: "decreament"});
         }}>clcik me</button>
 
-        {state.showText && <p>slam will be come a good developer inshallah</p>}
+        {state.showText && <p>slam will be come a good developer inshallah </p>}
     </div>
   )
 }
