@@ -1,5 +1,5 @@
 import './App.css';
-import UseReducer from './Component/UseReducer';
+import ImperativeHandle from './Component/ImperativeHandle';
 
 
 
@@ -7,7 +7,7 @@ import UseReducer from './Component/UseReducer';
 function App() {
   return (
     <div className="App">
-    <UseReducer/>
+      <ImperativeHandle/>
     </div>
   );
 }
